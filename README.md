@@ -1,7 +1,7 @@
 # TikTok Puzzle Captcha Solver
 
-![](1.png)
-![](2.png)
+<img src="1.png" width="400"/>
+<img src="2.png" width="400"/>
 
 Example:
 
