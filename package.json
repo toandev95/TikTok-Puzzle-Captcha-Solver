@@ -1,0 +1,14 @@
+{
+  "name": "tiktok-puzzle-captcha-solver",
+  "version": "0.0.1",
+  "dependencies": {
+    "jimp": "^0.16.1",
+    "lodash": "^4.17.21",
+    "opencv4nodejs-prebuilt": "^5.3.4"
+  },
+  "author": {
+    "name": "Toan Doan",
+    "url": "https://www.facebook.com/toandev.95"
+  },
+  "license": "MIT"
+}
